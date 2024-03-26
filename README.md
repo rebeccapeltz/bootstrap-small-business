@@ -12,4 +12,34 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
+## Content Sources
+
+### Images
+
+#### Fake Image
+
+https://betterplaceholder.com/
+
+#### Unsplash.it
+
+https://picsum.photos/
+    
+
+#### Unsplash  
+
+https://unsplash.com/
+
+#### Pexels
+
+https://www.pexels.com/
+
+### Text
+
+#### Lorem Ipsum
+
+https://loremipsum.io/
+
+#### chat gpt (AI)
+
+https://chatgpt.com/
 
