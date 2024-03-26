@@ -1,15 +1,9 @@
-# Apple a Day
+# Start Boot Strap
 
-## Photos from Pexels
+This code is downloaded from the [Start Bootstrap](https://startbootstrap.com/) website. It is used to create a [small business website](https://startbootstrap.com/template/small-business).  This free version is licensed under MIT.
 
-Photo by Toni Cuenca: https://www.pexels.com/photo/grannysmith-apple-with-bite-616837/
-
-Photo by mali maeder: https://www.pexels.com/photo/red-and-orange-apple-fruit-102104/
-
-Photo by Timotej Nagy: https://www.pexels.com/photo/red-apple-fruit-on-grass-584367/
-
-## Favicon
-<a target="_blank" href="https://icons8.com/icon/tsGqagtVj0Ka/red-apple">Red Apple</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<img src="./license.png" width="400" height="auto" alt="Start Bootstrap Small Business Template License Info">
+<hr>
 
 ## Start Bootstrap License
 This software includes the start Bootstrap: Copyright (C) 2023 
@@ -18,13 +12,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-## Credits
 
-Apple Pie Photo by Skyler Ewing: https://www.pexels.com/photo/apple-pie-on-brown-wooden-table-9502639/
-
-## Parallax Scrolling With CSS
-
-Background content moves at a different speed than foreground content. The CSS for this effect is turned off for mobile and tablet devices using a media query.
-
-## Fake Image
-https://betterplaceholder.com/
