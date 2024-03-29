@@ -16,30 +16,22 @@ The above copyright notice and this permission notice shall be included in all c
 
 ### Images
 
-#### Fake Image
+[Fake Image](https://betterplaceholder.com/)
 
-https://betterplaceholder.com/
+[Raw Pixel Public Domain Collection](https://www.rawpixel.com/public-domain/rawpixel-collection)
 
-#### Unsplash.it
+[Picsum Photos](https://picsum.photos/) 
 
-https://picsum.photos/
-    
+[Unsplash](https://unsplash.com/)
 
-#### Unsplash  
-
-https://unsplash.com/
-
-#### Pexels
-
-https://www.pexels.com/
+[Pexels](https://www.pexels.com/)
 
 ### Text
 
-#### Lorem Ipsum
+[Lorem Picsum](https://loremipsum.io/)
 
-https://loremipsum.io/
+[Chat GPI AI](https://chatgpt.com/)
 
-#### chat gpt (AI)
+### Fonts
 
-https://chatgpt.com/
-
+[Google Fonts](https://fonts.google.com/)

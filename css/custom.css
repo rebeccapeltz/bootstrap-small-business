@@ -1,0 +1,4 @@
+/* overwrite bootstrap color white */
+.navbar-brand {
+    color: yellow !important;
+}
