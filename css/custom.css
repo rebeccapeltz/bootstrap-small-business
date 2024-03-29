@@ -2,3 +2,7 @@
 .navbar-brand {
     color: yellow !important;
 }
+
+.icon-brand{
+    padding-right:3px;
+}
